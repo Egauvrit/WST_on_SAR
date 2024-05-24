@@ -2,7 +2,7 @@
 Use of the Wavelet Scattering Transform on SAR images.
 
 ## conda environnement to use
-I put in pywst_env.yml the needed conda environnement to run the notebook properly.\
+In pywst_env.yml, I put the conda environment needed for the notebook to work properly.\
 Otherwise the main required librairies are :
  - pywst 
  - proplot
